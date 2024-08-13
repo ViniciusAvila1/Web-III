@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "praticaweb3": "file:"
+  },
+  "name": "praticaweb3",
+  "version": "1.0.0",
+  "description": "Teste express",
+  "main": "web3.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusAvila1/Web-III.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Vinicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusAvila1/Web-III/issues"
+  },
+  "homepage": "https://github.com/ViniciusAvila1/Web-III#readme"
+}
